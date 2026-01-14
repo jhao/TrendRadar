@@ -1,12 +1,10 @@
-DeepSeek
-梁文锋
+人工智能
+AI
+具身智能
 
 谷歌
 google
 gemini
-
-chatgpt
-openai
 
 金价
 
@@ -19,7 +17,3 @@ openai
 
 美元
 +指数
-
-特朗普
-
-伊朗
