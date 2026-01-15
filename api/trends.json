@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T11:43:49.531175+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-01-15T12:43:38.469857+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时37分 ~ 11时43分]"
+          "appearance_count": 11,
+          "time_info": "[02时37分 ~ 12时43分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -72,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 11时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时43分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -82,11 +82,12 @@
           "ranks": [
             10,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 11时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时43分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -100,11 +101,12 @@
             12,
             13,
             19,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 11时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时43分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -147,6 +149,19 @@
           "time_info": "[01时29分 ~ 07时20分]"
         },
         {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时43分]"
+        },
+        {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
           "url": "https://flash.jin10.com/detail/20260115041052630800",
           "source": "金十数据",
@@ -158,27 +173,15 @@
           "time_info": "04时25分"
         },
         {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
           "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 11时43分]"
-        },
-        {
-          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
-          "url": "https://wallstreetcn.com/livenews/3037508",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时43分"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
@@ -191,6 +194,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时24分]"
+        },
+        {
+          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
+          "url": "https://wallstreetcn.com/livenews/3037508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -241,6 +256,30 @@
           "time_info": "[00时34分 ~ 01时30分]"
         },
         {
+          "title": "于正秀腹肌被判定AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
           "url": "https://wallstreetcn.com/livenews/3037229",
           "source": "华尔街见闻-快讯",
@@ -264,6 +303,28 @@
           "time_info": "07时20分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-15）",
+          "url": "https://flash.jin10.com/detail/20260115120106452800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
           "url": "https://flash.jin10.com/detail/20260115045202393800",
           "source": "金十数据",
@@ -275,26 +336,15 @@
           "time_info": "05时24分"
         },
         {
-          "title": "于正秀腹肌被判定AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时43分"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)遭到债券持有人起诉。原告指控称，由于该公司未能披露为了建设人工智能基础设施，其需要大举增加显著的额外债务，从而导致他们遭受了损失。",
@@ -328,6 +378,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "千问App接入支付宝，上线AI付款",
+          "url": "https://wallstreetcn.com/livenews/3037516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "AI点的第一杯奶茶",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%82%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
@@ -413,7 +485,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -467,8 +539,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时43分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时43分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -481,19 +566,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时30分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时43分]"
         },
         {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
@@ -620,6 +692,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
+          "url": "https://flash.jin10.com/detail/20260115110344751800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "金价上涨 银行保管箱“一箱难求”",
+          "url": "https://www.toutiao.com/trending/7595232648327495722/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -675,23 +775,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
-          "url": "https://flash.jin10.com/detail/20260115110344751800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         }
       ]
     }
