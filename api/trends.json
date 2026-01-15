@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-15T15:28:05.243400+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-01-15T16:35:03.302088+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 16时35分]"
+        },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
@@ -36,6 +51,20 @@
           "time_info": "[02时37分 ~ 13时28分]"
         },
         {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 16时35分]"
+        },
+        {
           "title": "浙江用AI抓出贪官",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
           "source": "百度热搜",
@@ -47,20 +76,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 11时43分]"
-        },
-        {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 15时28分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -99,11 +114,12 @@
             15,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 15时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 16时35分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -120,24 +136,12 @@
             22,
             18,
             14,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 14时37分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 16时35分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -166,6 +170,36 @@
           "time_info": "[01时29分 ~ 07时20分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 16时35分]"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            15,
+            9,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 16时35分]"
+        },
+        {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -180,33 +214,17 @@
           "time_info": "[01时29分 ~ 07时20分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
+            10,
             6,
             5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时28分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            15,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时28分]"
+          "time_info": "[14时37分 ~ 16时35分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -243,18 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时24分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 15时28分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -303,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时21分]"
+        },
+        {
+          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
+          "url": "https://www.cls.cn/detail/2258750",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "加州总检察长对xAI和Grok展开调查",
@@ -404,7 +421,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -624,6 +641,17 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 16时35分]"
+        },
+        {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -634,17 +662,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时20分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 15时28分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -803,7 +820,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价上涨 银行保管箱“一箱难求”",
@@ -817,6 +834,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 14时37分]"
+        },
+        {
+          "title": "金价暴涨 金店怎么还亏钱了",
+          "url": "https://www.toutiao.com/trending/7595163487077142043/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "金价再创历史新高 牛市还能走多远",
@@ -836,7 +864,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
