@@ -1570,7 +1570,8 @@ def render_html_content(
             }
 
             .container {
-                max-width: 600px;
+                max-width: 1100px;
+                width: 100%;
                 margin: 0 auto;
                 background: white;
                 border-radius: 12px;
@@ -1620,7 +1621,7 @@ def render_html_content(
             }
 
             .word-group {
-                margin-bottom: 40px;
+                margin-bottom: 32px;
             }
 
             .word-group:first-child {
@@ -1631,7 +1632,7 @@ def render_html_content(
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                margin-bottom: 20px;
+                margin-bottom: 14px;
                 padding-bottom: 8px;
                 border-bottom: 1px solid #f0f0f0;
             }
@@ -1663,13 +1664,13 @@ def render_html_content(
             }
 
             .news-item {
-                margin-bottom: 20px;
-                padding: 16px 0;
+                margin-bottom: 12px;
+                padding: 10px 0;
                 border-bottom: 1px solid #f5f5f5;
                 position: relative;
                 display: flex;
                 gap: 12px;
-                align-items: center;
+                align-items: flex-start;
             }
 
             .news-item:last-child {
@@ -1705,7 +1706,7 @@ def render_html_content(
                 align-items: center;
                 justify-content: center;
                 align-self: flex-start;
-                margin-top: 8px;
+                margin-top: 2px;
             }
 
             .news-content {
@@ -1722,7 +1723,26 @@ def render_html_content(
                 display: flex;
                 align-items: center;
                 gap: 8px;
-                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+
+            .news-details summary {
+                list-style: none;
+                cursor: pointer;
+            }
+
+            .news-details summary::-webkit-details-marker {
+                display: none;
+            }
+
+            .news-details[open] summary {
+                margin-bottom: 6px;
+            }
+
+            .news-meta {
+                display: flex;
+                align-items: center;
+                gap: 8px;
                 flex-wrap: wrap;
             }
 
@@ -1805,9 +1825,9 @@ def render_html_content(
 
             .new-item {
                 display: flex;
-                align-items: center;
+                align-items: flex-start;
                 gap: 12px;
-                padding: 8px 0;
+                padding: 6px 0;
                 border-bottom: 1px solid #f9f9f9;
             }
 
@@ -1858,6 +1878,12 @@ def render_html_content(
                 margin: 0;
             }
 
+            .new-item-meta {
+                color: #6b7280;
+                font-size: 12px;
+                margin-top: 6px;
+            }
+
             .error-section {
                 background: #fef2f2;
                 border: 1px solid #fecaca;
@@ -1884,6 +1910,11 @@ def render_html_content(
                 font-size: 13px;
                 padding: 2px 0;
                 font-family: 'SF Mono', Consolas, monospace;
+            }
+
+            @media (min-width: 768px) {
+                body { padding: 24px; }
+                .content { padding: 32px; }
             }
 
             @media (max-width: 480px) {
@@ -2001,9 +2032,24 @@ def render_html_content(
                 html += f"""
                     <div class="news-item {new_class}">
                         <div class="news-number">{j}</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">{html_escape(title_data["source_name"])}</span>"""
+                        <details class="news-content news-details">
+                            <summary class="news-title">"""
+
+                # 处理标题和链接
+                escaped_title = html_escape(title_data["title"])
+                link_url = title_data.get("mobile_url") or title_data.get("url", "")
+
+                if link_url:
+                    escaped_url = html_escape(link_url)
+                    html += f'<a href="{escaped_url}" target="_blank" class="news-link">{escaped_title}</a>'
+                else:
+                    html += escaped_title
+
+                html += """
+                            </summary>
+                            <div class="news-meta">
+                                <div class="news-header">
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span>"""
 
                 # 处理排名显示
                 ranks = title_data.get("ranks", [])
@@ -2046,22 +2092,9 @@ def render_html_content(
                     html += f'<span class="count-info">{count_info}次</span>'
 
                 html += """
+                                </div>
                             </div>
-                            <div class="news-title">"""
-
-                # 处理标题和链接
-                escaped_title = html_escape(title_data["title"])
-                link_url = title_data.get("mobile_url") or title_data.get("url", "")
-
-                if link_url:
-                    escaped_url = html_escape(link_url)
-                    html += f'<a href="{escaped_url}" target="_blank" class="news-link">{escaped_title}</a>'
-                else:
-                    html += escaped_title
-
-                html += """
-                            </div>
-                        </div>
+                        </details>
                     </div>"""
 
             html += """
@@ -2105,8 +2138,8 @@ def render_html_content(
                         <div class="new-item">
                             <div class="new-item-number">{idx}</div>
                             <div class="new-item-rank {rank_class}">{rank_text}</div>
-                            <div class="new-item-content">
-                                <div class="new-item-title">"""
+                            <details class="new-item-content news-details">
+                                <summary class="new-item-title">"""
 
                 # 处理新增新闻的链接
                 escaped_title = html_escape(title_data["title"])
@@ -2119,8 +2152,9 @@ def render_html_content(
                     html += escaped_title
 
                 html += """
-                                </div>
-                            </div>
+                                </summary>
+                                <div class="new-item-meta">排名：{rank_text}</div>
+                            </details>
                         </div>"""
 
             html += """
