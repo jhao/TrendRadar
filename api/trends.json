@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T12:42:20.978864+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-01-16T13:28:23.351026+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 12时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 13时28分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -106,8 +106,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 12时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 13时28分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -124,18 +124,6 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时42分]"
-        },
-        {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2259656",
           "source": "财联社热门",
@@ -144,8 +132,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时28分]"
+        },
+        {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时42分]"
+          "time_info": "[09时53分 ~ 13时28分]"
         },
         {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
@@ -207,6 +208,18 @@
           "time_info": "[07时24分 ~ 09时54分]"
         },
         {
+          "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
+          "url": "https://www.cls.cn/detail/2259692",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时28分]"
+        },
+        {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
           "url": "https://wallstreetcn.com/livenews/3038156",
           "source": "华尔街见闻-快讯",
@@ -231,16 +244,28 @@
           "time_info": "[11时42分 ~ 12时42分]"
         },
         {
-          "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
-          "url": "https://www.cls.cn/detail/2259692",
-          "source": "财联社热门",
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 13时28分]"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时28分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -301,17 +326,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
           "url": "https://www.zhihu.com/question/1994345893202191645",
           "source": "知乎",
@@ -329,7 +343,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -343,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "OpenAI：公司已参与脑机接口（BCI）初创公司Merge Labs的种子轮融资。",
@@ -398,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "玩鹅鸭杀让AI辨忠奸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E9%B9%85%E9%B8%AD%E6%9D%80%E8%AE%A9AI%E8%BE%A8%E5%BF%A0%E5%A5%B8%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
@@ -492,8 +506,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时28分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
