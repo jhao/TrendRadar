@@ -1620,8 +1620,17 @@ def render_html_content(
                 padding: 24px;
             }
 
+            .word-group-list {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+
             .word-group {
-                margin-bottom: 32px;
+                border: 1px solid #f1f1f1;
+                border-radius: 10px;
+                padding: 16px 16px 6px 16px;
+                background: #fff;
             }
 
             .word-group:first-child {
@@ -1632,9 +1641,26 @@ def render_html_content(
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                margin-bottom: 14px;
+                margin-bottom: 8px;
                 padding-bottom: 8px;
                 border-bottom: 1px solid #f0f0f0;
+            }
+
+            .word-group summary {
+                list-style: none;
+                cursor: pointer;
+            }
+
+            .word-group summary::-webkit-details-marker {
+                display: none;
+            }
+
+            .word-group[open] summary {
+                margin-bottom: 6px;
+            }
+
+            .word-body {
+                padding-top: 6px;
             }
 
             .word-info {
@@ -1917,6 +1943,12 @@ def render_html_content(
                 .content { padding: 32px; }
             }
 
+            @media (min-width: 900px) {
+                .word-group-list {
+                    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+                }
+            }
+
             @media (max-width: 480px) {
                 body { padding: 12px; }
                 .header { padding: 24px 20px; }
@@ -2001,6 +2033,9 @@ def render_html_content(
     if report_data["stats"]:
         total_count = len(report_data["stats"])
 
+        html += """
+                <div class="word-group-list">"""
+
         for i, stat in enumerate(report_data["stats"], 1):
             count = stat["count"]
 
@@ -2015,14 +2050,15 @@ def render_html_content(
             escaped_word = html_escape(stat["word"])
 
             html += f"""
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">{escaped_word}</div>
-                            <div class="word-count {count_class}">{count} 条</div>
-                        </div>
-                        <div class="word-index">{i}/{total_count}</div>
-                    </div>"""
+                    <details class="word-group" open>
+                        <summary class="word-header">
+                            <div class="word-info">
+                                <div class="word-name">{escaped_word}</div>
+                                <div class="word-count {count_class}">{count} 条</div>
+                            </div>
+                            <div class="word-index">{i}/{total_count}</div>
+                        </summary>
+                        <div class="word-body">"""
 
             # 处理每个词组下的新闻标题，给每条新闻标上序号
             for j, title_data in enumerate(stat["titles"], 1):
@@ -2098,6 +2134,10 @@ def render_html_content(
                     </div>"""
 
             html += """
+                        </div>
+                    </details>"""
+
+        html += """
                 </div>"""
 
     # 处理新增新闻区域
