@@ -67,8 +67,17 @@
                 padding: 24px;
             }
 
+            .word-group-list {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+
             .word-group {
-                margin-bottom: 32px;
+                border: 1px solid #f1f1f1;
+                border-radius: 10px;
+                padding: 16px 16px 6px 16px;
+                background: #fff;
             }
 
             .word-group:first-child {
@@ -79,9 +88,26 @@
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                margin-bottom: 14px;
+                margin-bottom: 8px;
                 padding-bottom: 8px;
                 border-bottom: 1px solid #f0f0f0;
+            }
+
+            .word-group summary {
+                list-style: none;
+                cursor: pointer;
+            }
+
+            .word-group summary::-webkit-details-marker {
+                display: none;
+            }
+
+            .word-group[open] summary {
+                margin-bottom: 6px;
+            }
+
+            .word-body {
+                padding-top: 6px;
             }
 
             .word-info {
@@ -364,6 +390,12 @@
                 .content { padding: 32px; }
             }
 
+            @media (min-width: 900px) {
+                .word-group-list {
+                    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+                }
+            }
+
             @media (max-width: 480px) {
                 body { padding: 12px; }
                 .header { padding: 24px 20px; }
@@ -388,28 +420,30 @@
                     </div>
                     <div class="info-item">
                         <span class="info-label">新闻总数</span>
-                        <span class="info-value">1549 条</span>
+                        <span class="info-value">1626 条</span>
                     </div>
                     <div class="info-item">
                         <span class="info-label">热点新闻</span>
-                        <span class="info-value">74 条</span>
+                        <span class="info-value">76 条</span>
                     </div>
                     <div class="info-item">
                         <span class="info-label">生成时间</span>
-                        <span class="info-value">01-16 17:31</span>
+                        <span class="info-value">01-16 18:14</span>
                     </div>
                 </div>
             </div>
 
             <div class="content">
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">人工智能 AI 具身智能</div>
-                            <div class="word-count hot">46 条</div>
-                        </div>
-                        <div class="word-index">1/6</div>
-                    </div>
+                <div class="word-group-list">
+                    <details class="word-group" open>
+                        <summary class="word-header">
+                            <div class="word-info">
+                                <div class="word-name">人工智能 AI 具身智能</div>
+                                <div class="word-count hot">48 条</div>
+                            </div>
+                            <div class="word-index">1/6</div>
+                        </summary>
+                        <div class="word-body">
                     <div class="news-item ">
                         <div class="news-number">1</div>
                         <details class="news-content news-details">
@@ -465,7 +499,7 @@
                             </summary>
                             <div class="news-meta">
                                 <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">6-12</span><span class="time-info">12时42分~17时31分</span><span class="count-info">10次</span>
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">6-12</span><span class="time-info">12时42分~18时14分</span><span class="count-info">12次</span>
                                 </div>
                             </div>
                         </details>
@@ -489,7 +523,7 @@
                             </summary>
                             <div class="news-meta">
                                 <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">7-10</span><span class="time-info">12时42分~17时31分</span><span class="count-info">10次</span>
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">7-10</span><span class="time-info">12时42分~18时14分</span><span class="count-info">12次</span>
                                 </div>
                             </div>
                         </details>
@@ -545,11 +579,11 @@
                     <div class="news-item ">
                         <div class="news-number">12</div>
                         <details class="news-content news-details">
-                            <summary class="news-title"><a href="https://www.cls.cn/detail/2259656" target="_blank" class="news-link">美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨</a>
+                            <summary class="news-title"><a href="https://www.cls.cn/detail/2259986" target="_blank" class="news-link">存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求</a>
                             </summary>
                             <div class="news-meta">
                                 <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num top">2-6</span><span class="time-info">07时24分~13时28分</span><span class="count-info">6次</span>
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">9-11</span><span class="time-info">15时27分~18时14分</span><span class="count-info">9次</span>
                                 </div>
                             </div>
                         </details>
@@ -557,11 +591,11 @@
                     <div class="news-item ">
                         <div class="news-number">13</div>
                         <details class="news-content news-details">
-                            <summary class="news-title"><a href="https://www.cls.cn/detail/2259986" target="_blank" class="news-link">存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求</a>
+                            <summary class="news-title"><a href="https://www.cls.cn/detail/2259812" target="_blank" class="news-link">市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注</a>
                             </summary>
                             <div class="news-meta">
                                 <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">11</span><span class="time-info">15时27分~17时31分</span><span class="count-info">7次</span>
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">11-13</span><span class="time-info">15时27分~18时14分</span><span class="count-info">9次</span>
                                 </div>
                             </div>
                         </details>
@@ -569,11 +603,11 @@
                     <div class="news-item ">
                         <div class="news-number">14</div>
                         <details class="news-content news-details">
-                            <summary class="news-title"><a href="https://www.cls.cn/detail/2259812" target="_blank" class="news-link">市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注</a>
+                            <summary class="news-title"><a href="https://www.cls.cn/detail/2259656" target="_blank" class="news-link">美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨</a>
                             </summary>
                             <div class="news-meta">
                                 <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">12-13</span><span class="time-info">15时27分~17时31分</span><span class="count-info">7次</span>
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num top">2-6</span><span class="time-info">07时24分~13时28分</span><span class="count-info">6次</span>
                                 </div>
                             </div>
                         </details>
@@ -713,6 +747,18 @@
                     <div class="news-item ">
                         <div class="news-number">26</div>
                         <details class="news-content news-details">
+                            <summary class="news-title"><a href="https://www.cls.cn/detail/2260348" target="_blank" class="news-link">【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整</a>
+                            </summary>
+                            <div class="news-meta">
+                                <div class="news-header">
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">12</span><span class="time-info">18时13分~18时14分</span><span class="count-info">2次</span>
+                                </div>
+                            </div>
+                        </details>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">27</div>
+                        <details class="news-content news-details">
                             <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038201" target="_blank" class="news-link">AI编程初创公司Replit接近按90亿美元估值融资。（彭博）</a>
                             </summary>
                             <div class="news-meta">
@@ -723,7 +769,31 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">27</div>
+                        <div class="news-number">28</div>
+                        <details class="news-content news-details">
+                            <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038644" target="_blank" class="news-link">理想万里晖建成面向太空的超薄柔性HJT电池AI示范线</a>
+                            </summary>
+                            <div class="news-meta">
+                                <div class="news-header">
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">16-30</span><span class="time-info">17时31分~18时14分</span><span class="count-info">2次</span>
+                                </div>
+                            </div>
+                        </details>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">29</div>
+                        <details class="news-content news-details">
+                            <summary class="news-title"><a href="https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8" target="_blank" class="news-link">马斯克儿子的妈妈起诉马斯克AI公司</a>
+                            </summary>
+                            <div class="news-meta">
+                                <div class="news-header">
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">26</span><span class="time-info">18时13分~18时14分</span><span class="count-info">2次</span>
+                                </div>
+                            </div>
+                        </details>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">30</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116132742753800" target="_blank" class="news-link">马斯克旗下Grok AI遭日本调查</a>
                             </summary>
@@ -735,7 +805,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">28</div>
+                        <div class="news-number">31</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038340" target="_blank" class="news-link">日本要求X改进 Grok AI 编辑功能问题。（日本共同社）</a>
                             </summary>
@@ -747,7 +817,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">29</div>
+                        <div class="news-number">32</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://www.zhihu.com/question/1994345893202191645" target="_blank" class="news-link">谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？</a>
                             </summary>
@@ -759,7 +829,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">30</div>
+                        <div class="news-number">33</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116114820528800" target="_blank" class="news-link">金十数据整理：每日人工智能动态汇总（2026-01-16）</a>
                             </summary>
@@ -771,7 +841,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">31</div>
+                        <div class="news-number">34</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116013602991800" target="_blank" class="news-link">OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。</a>
                             </summary>
@@ -783,7 +853,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">32</div>
+                        <div class="news-number">35</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116013554892800" target="_blank" class="news-link">OpenAI：公司已参与脑机接口（BCI）初创公司Merge Labs的种子轮融资。</a>
                             </summary>
@@ -795,7 +865,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">33</div>
+                        <div class="news-number">36</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://www.cls.cn/detail/2259728" target="_blank" class="news-link">券商晨会精华：把握AIDC电源向大功率、高压化、直流化趋势</a>
                             </summary>
@@ -807,7 +877,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">34</div>
+                        <div class="news-number">37</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116053652696800" target="_blank" class="news-link">Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。</a>
                             </summary>
@@ -819,7 +889,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">35</div>
+                        <div class="news-number">38</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116004856986800" target="_blank" class="news-link">华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律</a>
                             </summary>
@@ -831,7 +901,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">36</div>
+                        <div class="news-number">39</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116144322115800" target="_blank" class="news-link">三菱公司高管：到2030年，美国天然气需求预计将比2025年水平增长18%，主要受人工智能、数据中心和液化天然气出口的推动。</a>
                             </summary>
@@ -843,7 +913,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">37</div>
+                        <div class="news-number">40</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116000902007800" target="_blank" class="news-link">OpenAI 布局美国供应链 全线扩张软硬件版图</a>
                             </summary>
@@ -854,20 +924,8 @@
                             </div>
                         </details>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">38</div>
-                        <details class="news-content news-details">
-                            <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038644" target="_blank" class="news-link">理想万里晖建成面向太空的超薄柔性HJT电池AI示范线</a>
-                            </summary>
-                            <div class="news-meta">
-                                <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">16</span><span class="time-info">17时31分</span>
-                                </div>
-                            </div>
-                        </details>
-                    </div>
                     <div class="news-item ">
-                        <div class="news-number">39</div>
+                        <div class="news-number">41</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E7%8E%A9%E9%B9%85%E9%B8%AD%E6%9D%80%E8%AE%A9AI%E8%BE%A8%E5%BF%A0%E5%A5%B8%23&amp;t=31&amp;band_rank=18&amp;Refer=top" target="_blank" class="news-link">玩鹅鸭杀让AI辨忠奸</a>
                             </summary>
@@ -879,7 +937,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">40</div>
+                        <div class="news-number">42</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116143750836800" target="_blank" class="news-link">韩国财长：将聚焦于在人工智能、芯片、生物和食品等领域提升经济基本面，以应对外汇市场动荡。</a>
                             </summary>
@@ -891,7 +949,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">41</div>
+                        <div class="news-number">43</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116044537613800" target="_blank" class="news-link">据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。</a>
                             </summary>
@@ -903,7 +961,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">42</div>
+                        <div class="news-number">44</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260115234252489800" target="_blank" class="news-link">报告：AI推动半导体行业营收在2026年首次突破1万亿美元</a>
                             </summary>
@@ -915,7 +973,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">43</div>
+                        <div class="news-number">45</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038102" target="_blank" class="news-link">多平台公布涉“AI魔改”违规视频第二批处置结果</a>
                             </summary>
@@ -927,7 +985,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">44</div>
+                        <div class="news-number">46</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038310" target="_blank" class="news-link">美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。</a>
                             </summary>
@@ -939,7 +997,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">45</div>
+                        <div class="news-number">47</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116043600126800" target="_blank" class="news-link">消息人士：人工智能编程初创公司Replit接近完成融资，估值达90亿美元。</a>
                             </summary>
@@ -951,7 +1009,7 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">46</div>
+                        <div class="news-number">48</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038541" target="_blank" class="news-link">从能源到育种 我国人工智能企业数量已超6200家</a>
                             </summary>
@@ -962,15 +1020,17 @@
                             </div>
                         </details>
                     </div>
-                </div>
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">美股</div>
-                            <div class="word-count hot">17 条</div>
                         </div>
-                        <div class="word-index">2/6</div>
-                    </div>
+                    </details>
+                    <details class="word-group" open>
+                        <summary class="word-header">
+                            <div class="word-info">
+                                <div class="word-name">美股</div>
+                                <div class="word-count hot">17 条</div>
+                            </div>
+                            <div class="word-index">2/6</div>
+                        </summary>
+                        <div class="word-body">
                     <div class="news-item ">
                         <div class="news-number">1</div>
                         <details class="news-content news-details">
@@ -978,7 +1038,7 @@
                             </summary>
                             <div class="news-meta">
                                 <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num top">1-2</span><span class="time-info">09时53分~17时31分</span><span class="count-info">13次</span>
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num top">1-2</span><span class="time-info">09时53分~18时14分</span><span class="count-info">15次</span>
                                 </div>
                             </div>
                         </details>
@@ -1070,6 +1130,18 @@
                     <div class="news-item ">
                         <div class="news-number">9</div>
                         <details class="news-content news-details">
+                            <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038653" target="_blank" class="news-link">美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。</a>
+                            </summary>
+                            <div class="news-meta">
+                                <div class="news-header">
+                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">9-23</span><span class="time-info">17时31分~18时14分</span><span class="count-info">2次</span>
+                                </div>
+                            </div>
+                        </details>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">10</div>
+                        <details class="news-content news-details">
                             <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038225" target="_blank" class="news-link">航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%</a>
                             </summary>
                             <div class="news-meta">
@@ -1079,8 +1151,8 @@
                             </div>
                         </details>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">10</div>
+                    <div class="news-item ">
+                        <div class="news-number">11</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116170410342800" target="_blank" class="news-link">美股盘前，明星科技股走强，美光科技(MU.O)涨超3%、AMD(AMD.O)涨超2%、台积电(TSM.N)涨超1%。</a>
                             </summary>
@@ -1092,25 +1164,13 @@
                         </details>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">11</div>
+                        <div class="news-number">12</div>
                         <details class="news-content news-details">
                             <summary class="news-title"><a href="https://flash.jin10.com/detail/20260116050146912800" target="_blank" class="news-link">美股收盘：三大股指小幅收涨 大型金融股走强</a>
                             </summary>
                             <div class="news-meta">
                                 <div class="news-header">
                                     <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">8</span><span class="time-info">05时25分</span>
-                                </div>
-                            </div>
-                        </details>
-                    </div>
-                    <div class="news-item new">
-                        <div class="news-number">12</div>
-                        <details class="news-content news-details">
-                            <summary class="news-title"><a href="https://wallstreetcn.com/livenews/3038653" target="_blank" class="news-link">美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。</a>
-                            </summary>
-                            <div class="news-meta">
-                                <div class="news-header">
-                                    <span class="source-name">{html_escape(title_data["source_name"])}</span><span class="rank-num ">9</span><span class="time-info">17时31分</span>
                                 </div>
                             </div>
                         </details>
@@ -1175,15 +1235,17 @@
                             </div>
                         </details>
                     </div>
-                </div>
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">金价</div>
-                            <div class="word-count warm">5 条</div>
                         </div>
-                        <div class="word-index">3/6</div>
-                    </div>
+                    </details>
+                    <details class="word-group" open>
+                        <summary class="word-header">
+                            <div class="word-info">
+                                <div class="word-name">金价</div>
+                                <div class="word-count warm">5 条</div>
+                            </div>
+                            <div class="word-index">3/6</div>
+                        </summary>
+                        <div class="word-body">
                     <div class="news-item ">
                         <div class="news-number">1</div>
                         <details class="news-content news-details">
@@ -1244,15 +1306,17 @@
                             </div>
                         </details>
                     </div>
-                </div>
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">美元</div>
-                            <div class="word-count ">3 条</div>
                         </div>
-                        <div class="word-index">4/6</div>
-                    </div>
+                    </details>
+                    <details class="word-group" open>
+                        <summary class="word-header">
+                            <div class="word-info">
+                                <div class="word-name">美元</div>
+                                <div class="word-count ">3 条</div>
+                            </div>
+                            <div class="word-index">4/6</div>
+                        </summary>
+                        <div class="word-body">
                     <div class="news-item ">
                         <div class="news-number">1</div>
                         <details class="news-content news-details">
@@ -1289,15 +1353,17 @@
                             </div>
                         </details>
                     </div>
-                </div>
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">美债</div>
-                            <div class="word-count ">2 条</div>
                         </div>
-                        <div class="word-index">5/6</div>
-                    </div>
+                    </details>
+                    <details class="word-group" open>
+                        <summary class="word-header">
+                            <div class="word-info">
+                                <div class="word-name">美债</div>
+                                <div class="word-count ">2 条</div>
+                            </div>
+                            <div class="word-index">5/6</div>
+                        </summary>
+                        <div class="word-body">
                     <div class="news-item ">
                         <div class="news-number">1</div>
                         <details class="news-content news-details">
@@ -1322,15 +1388,17 @@
                             </div>
                         </details>
                     </div>
-                </div>
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">谷歌 google gemini</div>
-                            <div class="word-count ">1 条</div>
                         </div>
-                        <div class="word-index">6/6</div>
-                    </div>
+                    </details>
+                    <details class="word-group" open>
+                        <summary class="word-header">
+                            <div class="word-info">
+                                <div class="word-name">谷歌 google gemini</div>
+                                <div class="word-count ">1 条</div>
+                            </div>
+                            <div class="word-index">6/6</div>
+                        </summary>
+                        <div class="word-body">
                     <div class="news-item ">
                         <div class="news-number">1</div>
                         <details class="news-content news-details">
@@ -1343,6 +1411,8 @@
                             </div>
                         </details>
                     </div>
+                        </div>
+                    </details>
                 </div>
             </div>
         </div>
