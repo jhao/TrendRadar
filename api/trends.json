@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T16:34:09.996159+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-01-16T16:42:06.030503+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[00时38分 ~ 06时25分]"
         },
         {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时53分 ~ 16时42分]"
+        },
+        {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
           "url": "https://www.zhihu.com/question/1995072589756901062",
           "source": "知乎",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时38分 ~ 13时28分]"
-        },
-        {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 16时34分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -122,8 +122,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 16时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时38分 ~ 16时42分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -162,8 +162,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 16时42分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -175,8 +175,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 16时42分]"
         },
         {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
@@ -213,6 +213,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 02时40分]"
+        },
+        {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 16时42分]"
+        },
+        {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 16时42分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -262,29 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时29分]"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时34分]"
-        },
-        {
-          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
-          "url": "https://www.cls.cn/detail/2259812",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时34分]"
         },
         {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
@@ -572,6 +572,18 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时53分 ~ 16时42分]"
+        },
+        {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
@@ -582,18 +594,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时38分 ~ 06时25分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 16时34分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -737,7 +737,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -774,6 +774,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "金价飙升后银行保管箱出现「一箱难求」，部分银行租箱排队已排到一年后，投资者该如何安全存放黄金资产？",
+          "url": "https://www.zhihu.com/question/1995155168442996449",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
