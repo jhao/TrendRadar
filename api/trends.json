@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T16:42:06.030503+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-01-16T17:31:09.238306+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -65,6 +65,20 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 17时31分]"
+        },
+        {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
           "url": "https://www.cls.cn/detail/2259073",
           "source": "财联社热门",
@@ -77,6 +91,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时24分]"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 17时31分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -122,8 +149,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 16时42分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 17时31分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -152,31 +179,27 @@
           "time_info": "[07时24分 ~ 13时28分]"
         },
         {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            7,
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 17时31分]"
         },
         {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            7
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 17时31分]"
         },
         {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
@@ -213,29 +236,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 02时40分]"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 16时42分]"
-        },
-        {
-          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
-          "url": "https://www.cls.cn/detail/2259812",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 16时42分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -466,6 +466,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "理想万里晖建成面向太空的超薄柔性HJT电池AI示范线",
+          "url": "https://wallstreetcn.com/livenews/3038644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "玩鹅鸭杀让AI辨忠奸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E9%B9%85%E9%B8%AD%E6%9D%80%E8%AE%A9AI%E8%BE%A8%E5%BF%A0%E5%A5%B8%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -557,8 +568,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 17时31分]"
+        },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
           "url": "https://wallstreetcn.com/articles/3763270",
@@ -570,18 +593,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时24分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 16时42分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -668,6 +679,17 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "美股盘前，明星科技股走强，美光科技(MU.O)涨超3%、AMD(AMD.O)涨超2%、台积电(TSM.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260116170410342800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
           "url": "https://flash.jin10.com/detail/20260116050146912800",
           "source": "金十数据",
@@ -677,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
