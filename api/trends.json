@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T15:21:53.146491+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-01-17T16:29:41.591328+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,19 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时29分]"
+        },
+        {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
           "url": "https://www.cls.cn/detail/2260348",
           "source": "财联社热门",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 05时24分]"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时21分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -274,8 +275,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 16时29分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -548,11 +549,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时29分]"
         },
         {
           "title": "金价波动",
