@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:29:41.591328+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-17T17:23:18.136003+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 17时23分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -275,8 +275,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 17时23分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -302,8 +302,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 17时23分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -550,11 +550,12 @@
           "ranks": [
             3,
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时23分]"
         },
         {
           "title": "金价波动",
