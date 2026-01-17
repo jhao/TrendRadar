@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T12:34:51.792161+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-01-17T13:23:06.266279+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 12时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 13时23分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -58,6 +58,17 @@
           "time_info": "[00时32分 ~ 05时24分]"
         },
         {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 13时23分]"
+        },
+        {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
           "url": "https://flash.jin10.com/detail/20260117034809871800",
           "source": "金十数据",
@@ -75,11 +86,12 @@
           "ranks": [
             2,
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时23分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -121,15 +133,18 @@
           "time_info": "[02时36分 ~ 04时24分]"
         },
         {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
+          "title": "美政府推动科技巨头为AI用电买单",
+          "url": "https://flash.jin10.com/detail/20260117082311101800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6,
+            19,
+            21,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时34分]"
+          "time_info": "[09时48分 ~ 13时23分]"
         },
         {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
@@ -142,19 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时48分]"
-        },
-        {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时34分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -259,6 +261,19 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 13时23分]"
+        },
+        {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
           "url": "https://wallstreetcn.com/articles/3763450",
           "source": "华尔街见闻",
@@ -282,21 +297,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 11时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 12时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 13时23分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -494,8 +496,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中国持续减持美债有何动因",
+          "url": "https://www.toutiao.com/trending/7595953759675485747/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
         {
           "title": "两年期美债收益率周五一度快速拉升，本周累涨超6.2个基点",
           "url": "https://wallstreetcn.com/livenews/3038998",
