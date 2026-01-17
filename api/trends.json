@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T03:18:09.704669+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-01-18T04:25:13.424990+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
+        },
+        {
+          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
+          "url": "https://www.zhihu.com/question/659369541",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 04时25分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -26,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -37,8 +49,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
@@ -48,19 +60,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
-        },
-        {
-          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
-          "url": "https://www.zhihu.com/question/659369541",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     },
@@ -76,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     },
@@ -93,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     }
