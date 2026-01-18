@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:21:17.886753+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-01-18T23:22:06.019382+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时52分 ~ 17时24分]"
+        },
+        {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 23时22分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -45,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时43分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[12时43分 ~ 23时22分]"
         },
         {
           "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
@@ -63,21 +78,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 13时26分]"
-        },
-        {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 22时21分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -164,11 +164,12 @@
           "ranks": [
             4,
             12,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时22分]"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
@@ -288,7 +289,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
@@ -301,6 +302,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 10时01分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     }
