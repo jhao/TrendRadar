@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T17:38:04.985192+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-01-19T18:32:50.194380+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
           "url": "https://www.zhihu.com/question/1995464531351135851",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 17时38分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 18时32分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -237,7 +238,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -282,6 +283,17 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -291,17 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
