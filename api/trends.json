@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:32:50.194380+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2026-01-19T19:23:44.470313+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,18 @@
           "time_info": "[00时27分 ~ 04时26分]"
         },
         {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 19时23分]"
+        },
+        {
           "title": "IBM研究：人工智能有望在2030年前推动更智能的业务增长。",
           "url": "https://flash.jin10.com/detail/20260119130127093800",
           "source": "金十数据",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        },
-        {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 18时32分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -271,6 +271,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时23分]"
+        },
+        {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
@@ -281,17 +292,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时21分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
