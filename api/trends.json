@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T04:35:11.808253+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-01-22T05:31:21.301369+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时31分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时31分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -27,17 +38,6 @@
             5,
             8,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时35分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -55,8 +55,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时31分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -67,8 +67,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时31分]"
         },
         {
           "title": "据The Information：苹果(AAPL.O)计划在2027年首次推出可穿戴人工智能别针，初期产量高达2000万枚。",
@@ -77,9 +77,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
+          "url": "https://wallstreetcn.com/articles/3763773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时50分 ~ 05时31分]"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时57分]"
-        },
-        {
-          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
-          "url": "https://wallstreetcn.com/articles/3763773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 04时35分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -128,15 +128,38 @@
           "time_info": "[02时50分 ~ 03时29分]"
         },
         {
+          "title": "苹果公司正开发AI可穿戴设备PIN。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3041492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时31分]"
+        },
+        {
           "title": "市场消息：苹果计划改造Siri，将其打造成iPhone和Mac的内置聊天机器人，以与OpenAI抗衡。",
           "url": "https://flash.jin10.com/detail/20260122035053941800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "据知情人士透露，人工智能（AI）初创公司SambaNova Systems Inc.寻求融资，此前英特尔收购该公司的磋商陷入停滞。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3041510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -148,17 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "苹果公司正开发AI可穿戴设备PIN。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3041492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
         },
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -241,7 +253,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -252,8 +264,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时31分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -264,8 +276,66 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时31分]"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050522975800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050514062800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美股收盘：特朗普助力 三大股指涨超1%",
+          "url": "https://flash.jin10.com/detail/20260122050202493800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3041520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美股集体高开 百度涨5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            29,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 05时31分]"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -281,26 +351,13 @@
           "time_info": "[01时57分 ~ 03时29分]"
         },
         {
-          "title": "美股集体高开 百度涨5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时35分]"
-        },
-        {
           "title": "美股三大股指冲高，涨幅全线扩大至1%。特朗普宣布有关消息，格陵兰岛局势担忧大幅缓解。",
           "url": "https://flash.jin10.com/detail/20260122033201570800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -311,7 +368,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -341,7 +398,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美欧格陵兰争端升级，德商行预警美债持有者面临制裁风险",
@@ -356,13 +413,24 @@
           "time_info": "[01时57分 ~ 02时50分]"
         },
         {
+          "title": "中长期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3041511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "美债2年期与10年期收益率曲线趋平，现报66个基点。",
           "url": "https://flash.jin10.com/detail/20260122033903584800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -373,7 +441,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -381,8 +449,20 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数短线拉升，特朗普称与北约就“未来格陵兰协议”达成框架",
+          "url": "https://wallstreetcn.com/livenews/3041496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时31分]"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报3629.95点，北京时间23:19涨至3791.91点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数涨0.08%，报3415.49点，23:56曾涨至3536.13点。 MarketVector数字资产100指数跌2.34%，报17964.88点，23:19也曾涨至18520.85点。 目前，Solana跌0.84%，狗狗币跌1.70%，XRP跌0.88%。 比特币跌1.72%，暂报88000美元；以太坊跌3.15%，暂报2901.24美元。",
           "url": "https://wallstreetcn.com/livenews/3041450",
@@ -396,15 +476,15 @@
           "time_info": "[02时50分 ~ 03时29分]"
         },
         {
-          "title": "美元指数短线拉升，特朗普称与北约就“未来格陵兰协议”达成框架",
-          "url": "https://wallstreetcn.com/livenews/3041496",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260122045020837800",
+          "source": "金十数据",
           "ranks": [
-            13
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "05时31分"
         },
         {
           "title": "美元指数DXY拉升十余点，现报98.80；欧元兑美元EUR/USD一度下挫近20点，现报1.1685。",
@@ -413,7 +493,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -429,11 +509,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时31分]"
         }
       ]
     }
