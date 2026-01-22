@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T21:50:21.717460+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2026-01-22T22:33:35.342384+08:00",
+  "total_titles_processed": 2012,
   "failed_sources": [],
   "trends": [
     {
@@ -90,6 +90,19 @@
           "time_info": "[00时55分 ~ 21时50分]"
         },
         {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时33分]"
+        },
+        {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
           "url": "https://www.cls.cn/detail/2265232",
           "source": "财联社热门",
@@ -144,17 +157,17 @@
           "time_info": "[00时55分 ~ 07时28分]"
         },
         {
-          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
-          "url": "https://www.cls.cn/detail/2266641",
-          "source": "财联社热门",
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            2,
-            1
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时50分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 22时33分]"
         },
         {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
@@ -178,19 +191,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时56分 ~ 14时39分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 21时50分]"
         },
         {
           "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
@@ -320,6 +320,18 @@
           "time_info": "[00时55分 ~ 01时57分]"
         },
         {
+          "title": "欧洲头部AI公司高管：说中国的人工智能技术落后美国是“天方夜谭”",
+          "url": "https://wallstreetcn.com/livenews/3042097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时33分]"
+        },
+        {
           "title": "黄仁勋称AI时代蓝领更吃香，水管工、电工能拿六位数薪水",
           "url": "https://wallstreetcn.com/livenews/3041458",
           "source": "华尔街见闻-快讯",
@@ -431,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
-        },
-        {
-          "title": "欧洲头部AI公司高管：说中国的人工智能技术落后美国是“天方夜谭”",
-          "url": "https://wallstreetcn.com/livenews/3042097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -593,7 +594,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -612,7 +613,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -660,19 +661,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时56分 ~ 21时50分]"
-        },
-        {
-          "title": "美元指数短线波动不大，现报98.65。美股期货短线波动不大，纳斯达克100指数期货维持0.9%左右的涨幅。现货黄金短线波动不大，现报4822.39美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3042112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "appearance_count": 16,
+          "time_info": "[09时56分 ~ 22时33分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -700,6 +690,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 03时29分]"
+        },
+        {
+          "title": "美元指数短线波动不大，现报98.65。美股期货短线波动不大，纳斯达克100指数期货维持0.9%左右的涨幅。现货黄金短线波动不大，现报4822.39美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3042112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时33分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
@@ -831,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-22）",
+          "url": "https://flash.jin10.com/detail/20260122214419415800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美股三大股指冲高，涨幅全线扩大至1%。特朗普宣布有关消息，格陵兰岛局势担忧大幅缓解。",
@@ -1049,8 +1062,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时56分 ~ 21时50分]"
+          "appearance_count": 16,
+          "time_info": "[09时56分 ~ 22时33分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
