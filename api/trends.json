@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T15:31:18.850456+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-01-22T16:36:34.968458+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -103,11 +103,12 @@
             6,
             5,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 16时36分]"
         },
         {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
@@ -133,6 +134,20 @@
           "time_info": "[09时56分 ~ 14时39分]"
         },
         {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 16时36分]"
+        },
+        {
           "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
           "url": "https://flash.jin10.com/detail/20260122130616187800",
           "source": "金十数据",
@@ -142,6 +157,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时36分]"
         },
         {
           "title": "据The Information：苹果(AAPL.O)计划在2027年首次推出可穿戴人工智能别针，初期产量高达2000万枚。",
@@ -190,19 +218,6 @@
           "time_info": "[11时51分 ~ 12时51分]"
         },
         {
-          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
-          "url": "https://www.cls.cn/detail/2265956",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 15时31分]"
-        },
-        {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
           "url": "https://wallstreetcn.com/livenews/3041424",
           "source": "华尔街见闻-快讯",
@@ -227,16 +242,16 @@
           "time_info": "[09时56分 ~ 12时51分]"
         },
         {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
+          "title": "切入生成式AI赛道！苹果战略转向：首款AI聊天机器人要来了？",
+          "url": "https://www.cls.cn/detail/2265865",
           "source": "财联社热门",
           "ranks": [
-            13,
+            12,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时31分]"
+          "time_info": "[15时30分 ~ 16时36分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-22）",
@@ -249,17 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 13时31分]"
-        },
-        {
-          "title": "切入生成式AI赛道！苹果战略转向：首款AI聊天机器人要来了？",
-          "url": "https://www.cls.cn/detail/2265865",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -295,6 +299,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时31分]"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
@@ -413,7 +428,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -435,7 +450,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -460,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "王玉雯陈星旭撒糖给AI上了一课",
+          "url": "https://www.douyin.com/hot/2376144",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：西方国家对人工智能的乐观情绪较低。",
@@ -487,7 +513,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -534,8 +560,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时36分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -649,6 +675,17 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
+          "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
+          "url": "https://www.cls.cn/detail/2266096",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美股三大股指冲高，涨幅全线扩大至1%。特朗普宣布有关消息，格陵兰岛局势担忧大幅缓解。",
           "url": "https://flash.jin10.com/detail/20260122033201570800",
           "source": "金十数据",
@@ -696,7 +733,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -727,6 +764,18 @@
           "time_info": "[11时51分 ~ 15时31分]"
         },
         {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.toutiao.com/trending/7597071093045166107/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 16时36分]"
+        },
+        {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
           "url": "https://wallstreetcn.com/livenews/3041532",
           "source": "华尔街见闻-快讯",
@@ -737,17 +786,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.toutiao.com/trending/7597071093045166107/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "高盛上调年底金价目标至5400美元 央行需求持续增强",
@@ -794,6 +832,28 @@
           "time_info": "11时51分"
         },
         {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "黄金价格再创新高背后",
+          "url": "https://www.toutiao.com/trending/7597964523915447862/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -818,8 +878,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时36分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
