@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T04:29:33.397926+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-01-24T05:24:29.830846+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时24分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时24分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -38,11 +39,12 @@
             16,
             20,
             17,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时24分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -150,8 +152,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -192,7 +194,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
@@ -231,6 +233,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时29分]"
+        },
+        {
+          "title": "美元指数本周跌约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3043114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -243,11 +256,12 @@
           "url": "https://wallstreetcn.com/livenews/3043102",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         }
       ]
     },
