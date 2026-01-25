@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:22:40.067956+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-25T10:03:51.889514+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 10时03分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 10时03分]"
         },
         {
           "title": "中国和东盟专家探讨人工智能发展与治理",
@@ -32,17 +46,16 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
           "ranks": [
-            9,
             8,
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "time_info": "[00时28分 ~ 10时03分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -72,17 +85,6 @@
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
-          "url": "https://flash.jin10.com/detail/20260124215336107800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
@@ -147,11 +149,12 @@
           "url": "https://flash.jin10.com/detail/20260124222616668800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时03分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -159,11 +162,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 10时03分]"
         }
       ]
     },
