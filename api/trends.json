@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:36:34.488033+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-01-28T17:37:21.673570+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 16时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 17时37分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -58,18 +58,6 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
           "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
           "url": "https://www.cls.cn/detail/2272264",
           "source": "财联社热门",
@@ -80,8 +68,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时46分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时46分 ~ 17时37分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -106,6 +106,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时46分 ~ 15时28分]"
+        },
+        {
+          "title": "刘强东在家乡打造了一个AI教室",
+          "url": "https://www.toutiao.com/trending/7600224231955988531/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 17时37分]"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -142,18 +166,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时46分 ~ 13时33分]"
-        },
-        {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 16时36分]"
         },
         {
           "title": "人工智能发展到什么阶段了",
@@ -239,6 +251,18 @@
           "time_info": "[02时42分 ~ 03时29分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时37分]"
+        },
+        {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
           "url": "https://flash.jin10.com/detail/20260128020246054800",
           "source": "金十数据",
@@ -271,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "阿斯麦(ASML.O)首席执行官：这主要基于对人工智能相关需求可持续性的更稳健预期。",
@@ -328,6 +341,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "SK海力士：将向人工智能公司投资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260128165729471800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
           "url": "https://wallstreetcn.com/livenews/3045207",
           "source": "华尔街见闻-快讯",
@@ -339,15 +363,37 @@
           "time_info": "11时47分"
         },
         {
+          "title": "SK海力士：公司正考虑通过AI公司投资美国的创新型企业并与之合作，以与SK集团的关联公司产生协同效应。",
+          "url": "https://flash.jin10.com/detail/20260128165607288800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "中央企业“AI+”专项行动取得积极进展",
           "url": "https://wallstreetcn.com/livenews/3045398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "SK海力士将以资本投入的方式向人工智能部门投入100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "经济日报：让人工智能促进青年就业",
@@ -372,6 +418,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "SK海力士将成立专注于人工智能解决方案的美国子公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "ASML第四季度订单额创新高 AI投资浪潮汹涌提振需求",
           "url": "https://wallstreetcn.com/livenews/3045333",
           "source": "华尔街见闻-快讯",
@@ -386,7 +443,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -444,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美股盘前，阿斯麦(ASML.O)涨超5%，Q4净销售额和全年营收均创新高。德州仪器(TXN.O)涨超7%，季度展望超预期。",
+          "url": "https://flash.jin10.com/detail/20260128170403752800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美股费城半导体指数涨2.5%。",
@@ -559,6 +627,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3045460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美股半导体指数涨2.4%，创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3044981",
           "source": "华尔街见闻-快讯",
@@ -573,7 +652,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
@@ -709,12 +788,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报96.24。美元兑瑞郎USD/CHF日内涨幅扩大至1.00%，现报0.7691。",
+          "url": "https://flash.jin10.com/detail/20260128165244937800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -737,8 +827,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 16时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 17时37分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时46分 ~ 17时37分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -751,21 +854,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时42分 ~ 16时36分]"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时46分 ~ 16时36分]"
+          "appearance_count": 19,
+          "time_info": "[02时42分 ~ 17时37分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -788,8 +878,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 17时37分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -840,8 +941,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 16时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时55分 ~ 17时37分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -852,8 +953,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 17时37分]"
         },
         {
           "title": "谷歌：为手机推出强大的防盗保护功能。",
