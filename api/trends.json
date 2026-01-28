@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T22:33:53.902640+08:00",
-  "total_titles_processed": 2099,
+  "generated_at": "2026-01-28T23:36:04.658984+08:00",
+  "total_titles_processed": 2202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -88,6 +88,21 @@
           "time_info": "[14时39分 ~ 20时56分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时36分 ~ 23时36分]"
+        },
+        {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
@@ -100,18 +115,18 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            10,
-            7,
-            8
+            27,
+            23,
+            12,
+            26
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时33分]"
+          "time_info": "[18时32分 ~ 23时36分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -127,18 +142,31 @@
           "time_info": "[07时25分 ~ 13时33分]"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
           "ranks": [
-            27,
-            23,
-            12,
-            26
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时36分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[18时32分 ~ 22时33分]"
+          "time_info": "[18时32分 ~ 23时36分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -152,6 +180,18 @@
           "time_info": "[12时46分 ~ 15时28分]"
         },
         {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时36分]"
+        },
+        {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
           "url": "https://flash.jin10.com/detail/20260128181506461800",
           "source": "金十数据",
@@ -161,19 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 22时33分]"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -200,18 +227,6 @@
           "time_info": "[13时33分 ~ 14时40分]"
         },
         {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时33分]"
-        },
-        {
           "title": "刘强东在家乡打造了一个AI教室",
           "url": "https://www.toutiao.com/trending/7600224231955988531/",
           "source": "今日头条",
@@ -236,16 +251,15 @@
           "time_info": "[12时46分 ~ 13时33分]"
         },
         {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时33分]"
+          "appearance_count": 3,
+          "time_info": "[22时33分 ~ 23时36分]"
         },
         {
           "title": "人工智能发展到什么阶段了",
@@ -281,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时29分]"
+        },
+        {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -374,17 +399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
-        },
-        {
-          "title": "刘强东给老家建了间AI教室",
-          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
         },
         {
           "title": "阿斯麦(ASML.O)首席执行官：这主要基于对人工智能相关需求可持续性的更稳健预期。",
@@ -555,7 +569,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -594,13 +608,25 @@
           "time_info": "[19时25分 ~ 20时56分]"
         },
         {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时36分]"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3045636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -682,18 +708,6 @@
           "time_info": "14时40分"
         },
         {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时33分]"
-        },
-        {
           "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3045621",
           "source": "华尔街见闻-快讯",
@@ -704,6 +718,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时52分 ~ 22时33分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时33分 ~ 23时36分]"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -801,17 +826,6 @@
           "time_info": "20时56分"
         },
         {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
           "url": "https://wallstreetcn.com/livenews/3045005",
           "source": "华尔街见闻-快讯",
@@ -867,6 +881,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
+          "url": "https://wallstreetcn.com/livenews/3045661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "AT&T第四季度营收335亿美元，预估328.3亿美元。 第四季度调整后EBITDA 112亿美元，预估111.1亿美元。 第四季度调整后每股收益0.52美元，预估0.46美元。 第四季度自由现金流42亿美元。 AT&T预计2026年自由现金流至少180亿美元。 AT&T美股盘前涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3045563",
           "source": "华尔街见闻-快讯",
@@ -889,6 +914,17 @@
           "time_info": "20时56分"
         },
         {
+          "title": "半导体ETF美股盘初涨1.92%，全球科技股指数ETF涨0.91%，科技行业ETF涨0.84%，领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3045657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美股半导体指数涨2.4%，创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3044981",
           "source": "华尔街见闻-快讯",
@@ -903,7 +939,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -925,8 +961,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时39分 ~ 22时33分]"
+          "appearance_count": 14,
+          "time_info": "[14时39分 ~ 23时36分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -969,6 +1005,34 @@
           "time_info": "[02时42分 ~ 17时37分]"
         },
         {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时36分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            29,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 23时36分]"
+        },
+        {
           "title": "金价暴涨女子卖300克黄金变现30万",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -981,30 +1045,15 @@
           "time_info": "[11时47分 ~ 15时28分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
+          "title": "渣打：金价出现任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            6,
-            29,
-            26
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 22时33分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时33分]"
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
@@ -1080,7 +1129,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
@@ -1150,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3045675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美元指数跌至近4年来低点",
@@ -1244,8 +1304,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时55分 ~ 22时33分]"
+          "appearance_count": 21,
+          "time_info": "[09时55分 ~ 23时36分]"
         },
         {
           "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
@@ -1254,7 +1314,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1351,7 +1411,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "两年期美债收益率跌2个基点，长端美债收益率则涨超3.2个基点",
@@ -1363,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美国财长贝森特就强势美元政策发表评论后，长期美债收益率涨幅收窄；10年期收益率现涨2.8个基点，报4.251%。",
+          "url": "https://flash.jin10.com/detail/20260128232103183800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     }
