@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:29:14.951182+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-01-29T13:47:17.788489+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 13时47分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -92,11 +92,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时47分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -140,8 +141,42 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时47分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时29分]"
+          "time_info": "[12时28分 ~ 13时47分]"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时47分]"
+        },
+        {
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时47分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -167,44 +202,11 @@
           "time_info": "[04时35分 ~ 05时32分]"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
           "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
           "url": "https://www.zhihu.com/question/1999819158431503971",
           "source": "知乎",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "AI应用板块爆发",
-          "url": "https://www.toutiao.com/trending/7599545650313642034/",
-          "source": "今日头条",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -250,7 +252,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -277,6 +279,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "英伟达CEO黄仁勋：内存对人工智能的未来至关重要。",
+          "url": "https://flash.jin10.com/detail/20260129133336783800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
           "url": "https://wallstreetcn.com/livenews/3045838",
           "source": "华尔街见闻-快讯",
@@ -294,7 +307,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -308,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "光明村村民领京东AI手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%9D%91%E6%9D%91%E6%B0%91%E9%A2%86%E4%BA%AC%E4%B8%9CAI%E6%89%8B%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "美联储主席鲍威尔：最近大学毕业生的低就业率似乎与人工智能存在某种关联。",
@@ -415,7 +439,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -470,8 +494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时47分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -644,7 +668,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -695,8 +719,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 13时47分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -709,6 +733,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时40分 ~ 12时29分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时47分]"
         },
         {
           "title": "金价波动",
@@ -724,34 +759,12 @@
           "time_info": "[02时41分 ~ 07时29分]"
         },
         {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时29分]"
-        },
-        {
           "title": "渣打：金价任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
           "ranks": [
             1,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 10时09分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -765,8 +778,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时47分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 10时09分]"
         },
         {
           "title": "金价银价暴涨原因",
@@ -800,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "金价飙涨消费者把黄金变现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
