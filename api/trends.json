@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T03:22:48.658064+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-01T04:29:14.606101+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
-        },
-        {
-          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
-          "url": "https://wallstreetcn.com/livenews/3047705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -38,8 +27,34 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
+        },
+        {
+          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
+          "url": "https://wallstreetcn.com/livenews/3047705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
+        },
+        {
+          "title": "爆火AI助手数小时两度改名",
+          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%ABAI%E5%8A%A9%E6%89%8B%E6%95%B0%E5%B0%8F%E6%97%B6%E4%B8%A4%E5%BA%A6%E6%94%B9%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 04时29分]"
         },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -49,19 +64,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
           "url": "https://wallstreetcn.com/livenews/3047693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -71,8 +87,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -82,32 +98,31 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
           "url": "https://wallstreetcn.com/livenews/3047685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
-          "title": "爆火AI助手数小时两度改名",
-          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%ABAI%E5%8A%A9%E6%89%8B%E6%95%B0%E5%B0%8F%E6%97%B6%E4%B8%A4%E5%BA%A6%E6%94%B9%E5%90%8D",
-          "source": "百度热搜",
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            26,
-            22
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时22分]"
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时29分]"
         }
       ]
     },
@@ -124,8 +139,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -136,21 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -163,8 +165,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -173,11 +189,12 @@
           "ranks": [
             30,
             2,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 04时29分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -185,11 +202,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 04时29分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -200,8 +218,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -228,11 +246,12 @@
           "ranks": [
             4,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         }
       ]
     },
@@ -248,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         }
       ]
     }
