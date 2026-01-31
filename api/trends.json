@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T21:43:32.227649+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-01-31T22:27:07.908158+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时42分 ~ 21时43分]"
+          "appearance_count": 14,
+          "time_info": "[14时42分 ~ 22时27分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -77,6 +77,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时34分 ~ 07时28分]"
+        },
+        {
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时27分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -118,6 +131,31 @@
           "time_info": "[12时26分 ~ 14时43分]"
         },
         {
+          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
+          "url": "https://wallstreetcn.com/livenews/3047705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时27分]"
+        },
+        {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
           "url": "https://wallstreetcn.com/livenews/3047621",
           "source": "华尔街见闻-快讯",
@@ -138,11 +176,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -150,11 +189,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时27分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -162,24 +202,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时27分]"
         },
         {
-          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
-          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
           "source": "金十数据",
           "ranks": [
-            2,
-            12,
+            3,
+            8,
             17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时43分]"
+          "time_info": "[20时53分 ~ 22时27分]"
         },
         {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
@@ -206,30 +247,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
-          "url": "https://flash.jin10.com/detail/20260131203248230800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时43分]"
-        },
-        {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时43分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
@@ -259,6 +276,30 @@
           "time_info": "[16时34分 ~ 18时28分]"
         },
         {
+          "title": "AI助手OpenClaw爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E5%8A%A9%E6%89%8BOpenClaw%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 22时27分]"
+        },
+        {
+          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
+          "url": "https://wallstreetcn.com/livenews/3047685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时27分]"
+        },
+        {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
           "url": "https://wallstreetcn.com/livenews/3047546",
           "source": "华尔街见闻-快讯",
@@ -271,16 +312,15 @@
           "time_info": "[03时34分 ~ 04时34分]"
         },
         {
-          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
-          "url": "https://wallstreetcn.com/livenews/3047685",
-          "source": "华尔街见闻-快讯",
+          "title": "男子被AI诊断梅毒医生否认却不信",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%ABAI%E8%AF%8A%E6%96%AD%E6%A2%85%E6%AF%92%E5%8C%BB%E7%94%9F%E5%90%A6%E8%AE%A4%E5%8D%B4%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            14
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时43分]"
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
@@ -292,17 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时29分]"
-        },
-        {
-          "title": "AI助手OpenClaw爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E5%8A%A9%E6%89%8BOpenClaw%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -319,7 +348,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -332,8 +361,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时29分 ~ 21时43分]"
+          "appearance_count": 20,
+          "time_info": "[06时29分 ~ 22时27分]"
         },
         {
           "title": "金价",
@@ -350,6 +379,19 @@
           "time_info": "[10时05分 ~ 17时31分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            20,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 22时27分]"
+        },
+        {
           "title": "金价30小时暴跌670美元 后市怎么走",
           "url": "https://www.toutiao.com/trending/7601454930070605321/",
           "source": "今日头条",
@@ -359,6 +401,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "金价大跌男子斥资20多万买入200克",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "金价下跌多品牌设1-5%退货手续费",
@@ -419,18 +472,6 @@
           "time_info": "[10时06分 ~ 15时31分]"
         },
         {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 21时43分]"
-        },
-        {
           "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
           "url": "https://wallstreetcn.com/livenews/3047536",
           "source": "华尔街见闻-快讯",
@@ -442,6 +483,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时34分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "马光远：黄金价格进入算命阶段",
@@ -536,8 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时05分 ~ 21时43分]"
+          "appearance_count": 18,
+          "time_info": "[10时05分 ~ 22时27分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -562,8 +614,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时05分 ~ 21时43分]"
+          "appearance_count": 18,
+          "time_info": "[10时05分 ~ 22时27分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -657,6 +709,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 22时27分]"
+        },
+        {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
           "url": "https://flash.jin10.com/detail/20260131025828448800",
           "source": "金十数据",
@@ -668,19 +734,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时34分 ~ 10时06分]"
-        },
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 21时43分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
