@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T20:53:10.261282+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-01-31T21:43:32.227649+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[14时42分 ~ 21时43分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -63,8 +63,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 20时53分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 21时43分]"
         },
         {
           "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
@@ -90,39 +90,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 05时31分]"
-        },
-        {
-          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
-          "url": "https://flash.jin10.com/detail/20260131204002785800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
-          "url": "https://flash.jin10.com/detail/20260131203337844800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
-          "url": "https://flash.jin10.com/detail/20260131203248230800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "全球首款完全仿生具身智能机器人亮相",
@@ -151,17 +118,6 @@
           "time_info": "[12时26分 ~ 14时43分]"
         },
         {
-          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
-          "url": "https://wallstreetcn.com/livenews/3047693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
           "url": "https://wallstreetcn.com/livenews/3047621",
           "source": "华尔街见闻-快讯",
@@ -175,6 +131,55 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时06分 ~ 15时31分]"
+        },
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时43分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时43分]"
+        },
+        {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时43分]"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时43分]"
         },
         {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
@@ -203,16 +208,28 @@
           "time_info": "[17时31分 ~ 19时23分]"
         },
         {
-          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
-          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
           "source": "金十数据",
           "ranks": [
-            2,
-            12
+            3,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时53分]"
+          "time_info": "[20时53分 ~ 21时43分]"
+        },
+        {
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时43分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
@@ -254,6 +271,18 @@
           "time_info": "[03时34分 ~ 04时34分]"
         },
         {
+          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
+          "url": "https://wallstreetcn.com/livenews/3047685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时43分]"
+        },
+        {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
           "url": "https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E6%8A%BC%E5%AE%9DAI+%E7%89%B9%E6%96%AF%E6%8B%89%E6%B2%A1%E5%BF%83%E6%80%9D%E9%80%A0%E8%BD%A6%E4%BA%86",
           "source": "百度热搜",
@@ -265,26 +294,15 @@
           "time_info": "[05时31分 ~ 06时29分]"
         },
         {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
+          "title": "AI助手OpenClaw爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E5%8A%A9%E6%89%8BOpenClaw%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
-          "url": "https://wallstreetcn.com/livenews/3047685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "21时43分"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -310,11 +328,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时29分 ~ 20时53分]"
+          "appearance_count": 18,
+          "time_info": "[06时29分 ~ 21时43分]"
         },
         {
           "title": "金价",
@@ -400,6 +419,18 @@
           "time_info": "[10时06分 ~ 15时31分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时43分]"
+        },
+        {
           "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
           "url": "https://wallstreetcn.com/livenews/3047536",
           "source": "华尔街见闻-快讯",
@@ -411,18 +442,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时34分]"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "马光远：黄金价格进入算命阶段",
@@ -517,8 +536,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时05分 ~ 20时53分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 21时43分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -543,8 +562,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时05分 ~ 20时53分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 21时43分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -651,6 +670,19 @@
           "time_info": "[03时34分 ~ 10时06分]"
         },
         {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 21时43分]"
+        },
+        {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
           "url": "https://www.zhihu.com/question/2000222256375227441",
           "source": "知乎",
@@ -663,18 +695,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 06时29分]"
-        },
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 20时53分]"
         }
       ]
     },
