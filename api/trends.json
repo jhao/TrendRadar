@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T20:54:47.134854+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-02-01T21:46:12.197355+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 21时46分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -149,6 +149,35 @@
           "time_info": "[01时26分 ~ 07时25分]"
         },
         {
+          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
+          "url": "https://wallstreetcn.com/livenews/3047799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            12,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 21时46分]"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时46分]"
+        },
+        {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
           "url": "https://wallstreetcn.com/articles/3764648",
           "source": "华尔街见闻",
@@ -163,18 +192,32 @@
           "time_info": "[10时34分 ~ 16时36分]"
         },
         {
-          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
-          "url": "https://wallstreetcn.com/livenews/3047799",
-          "source": "华尔街见闻-快讯",
+          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
+          "url": "https://flash.jin10.com/detail/20260201180928077800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            7,
-            12,
-            17
+            2,
+            11,
+            19,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时54分]"
+          "time_info": "[18时29分 ~ 21时46分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
@@ -189,55 +232,17 @@
           "time_info": "[00时32分 ~ 04时29分]"
         },
         {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
-        },
-        {
-          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
-          "url": "https://flash.jin10.com/detail/20260201180928077800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
-        },
-        {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
           "url": "https://wallstreetcn.com/livenews/3047809",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时46分]"
         },
         {
           "title": "男子被AI诊断梅毒医生否认却不信",
@@ -277,6 +282,18 @@
           "time_info": "[13时03分 ~ 16时36分]"
         },
         {
+          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
+          "url": "https://www.cls.cn/detail/2276797",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 21时46分]"
+        },
+        {
           "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
           "url": "https://www.zhihu.com/question/2000826715941904620",
           "source": "知乎",
@@ -298,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时53分 ~ 15时39分]"
-        },
-        {
-          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
-          "url": "https://www.cls.cn/detail/2276797",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "全球首款完全仿生具身智能机器人亮相",
@@ -378,6 +384,22 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            22,
+            21,
+            24,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时34分 ~ 21时46分]"
+        },
+        {
           "title": "金价银价为何创纪录暴跌",
           "url": "https://www.douyin.com/hot/2385262",
           "source": "抖音",
@@ -392,21 +414,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            22,
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 20时54分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -437,6 +444,18 @@
           "time_info": "[02时36分 ~ 07时25分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时46分]"
+        },
+        {
           "title": "金价巨震前后商业银行集体审慎",
           "url": "https://www.toutiao.com/trending/7601209104585211940/",
           "source": "今日头条",
@@ -463,16 +482,15 @@
           "time_info": "[14时53分 ~ 16时36分]"
         },
         {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            4
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时46分]"
         },
         {
           "title": "金价暴跌 有柜姐发帖退单一律扣500",
@@ -499,17 +517,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 14时53分]"
-        },
-        {
-          "title": "金价暴跌 深圳水贝挤满了人",
-          "url": "https://www.toutiao.com/trending/7601809209675484713/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时54分]"
         },
         {
           "title": "金价暴跌后顾客排长队出售黄金",
@@ -618,11 +625,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 21时46分]"
         }
       ]
     },
