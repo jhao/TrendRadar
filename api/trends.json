@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:48:07.474165+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-02-02T19:37:46.885263+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时08分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 19时37分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
@@ -118,17 +118,6 @@
           "time_info": "10时25分"
         },
         {
-          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
-          "url": "https://flash.jin10.com/detail/20260202183736296800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "微软两日蒸发3810亿美元市值 揭示人工智能投资浪潮开始分化",
           "url": "https://wallstreetcn.com/livenews/3048226",
           "source": "华尔街见闻-快讯",
@@ -139,6 +128,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时47分 ~ 17时54分]"
+        },
+        {
+          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
+          "url": "https://flash.jin10.com/detail/20260202183736296800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "北京大学与中国铁塔合作 推动AI产教融合",
+          "url": "https://wallstreetcn.com/livenews/3048300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
+          "url": "https://wallstreetcn.com/livenews/3048290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "腾讯打响AI社交第一枪",
@@ -161,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
-        },
-        {
-          "title": "北京大学与中国铁塔合作 推动AI产教融合",
-          "url": "https://wallstreetcn.com/livenews/3048300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
@@ -218,17 +232,6 @@
           "time_info": "16时47分"
         },
         {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "蚂蚁CEO发布内部信，加大对AI“开创性贡献”激励力度",
           "url": "https://wallstreetcn.com/livenews/3048193",
           "source": "华尔街见闻-快讯",
@@ -269,6 +272,20 @@
           "time_info": "[00时33分 ~ 16时47分]"
         },
         {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 19时37分]"
+        },
+        {
           "title": "男子看金价下跌花20多万买200克",
           "url": "https://www.toutiao.com/trending/7600970812455845951/",
           "source": "今日头条",
@@ -281,20 +298,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时27分 ~ 07时28分]"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 18时48分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -532,7 +535,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -598,8 +601,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 18时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 19时37分]"
         }
       ]
     },
