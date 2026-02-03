@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T22:45:59.021062+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2026-02-03T23:53:01.244284+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 22时45分]"
+          "appearance_count": 15,
+          "time_info": "[10时24分 ~ 23时53分]"
         },
         {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
@@ -59,8 +59,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时48分 ~ 22时45分]"
+          "appearance_count": 14,
+          "time_info": "[12时48分 ~ 23时53分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -78,6 +78,19 @@
           "time_info": "[10时24分 ~ 15时45分]"
         },
         {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 23时53分]"
+        },
+        {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
           "url": "https://www.cls.cn/detail/2278216",
           "source": "财联社热门",
@@ -92,17 +105,17 @@
           "time_info": "[00时43分 ~ 10时24分]"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
           "ranks": [
+            10,
             8,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 22时45分]"
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时53分]"
         },
         {
           "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
@@ -125,7 +138,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -256,17 +269,16 @@
           "time_info": "21时05分"
         },
         {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            7
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时05分 ~ 23时53分]"
         },
         {
           "title": "又一位AI亿万富豪诞生了",
@@ -281,16 +293,29 @@
           "time_info": "[12时48分 ~ 14时56分]"
         },
         {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            9
+            18,
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时05分 ~ 23时53分]"
+        },
+        {
+          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
+          "url": "https://www.cls.cn/detail/2279310",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时53分]"
         },
         {
           "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
@@ -314,18 +339,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 14时56分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时45分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -378,7 +391,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -405,6 +418,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "沃尔玛市值首次突破1万亿美元 AI布局与高性价比推动增长",
+          "url": "https://flash.jin10.com/detail/20260203230306441800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "一图看懂|三大巨头豪掷45亿！2026春节AI红包大战打响",
           "url": "https://www.cls.cn/detail/2279165",
           "source": "财联社热门",
@@ -414,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
-        },
-        {
-          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
-          "url": "https://www.cls.cn/detail/2279310",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "视频和移动通信服务公司Liberty Global：将与谷歌合作，在以人工智能为先的项目中优化云服务，以提升电信系统和网络可扩展性。已达成五年合作伙伴关系，将在整个欧洲业务中部署谷歌的Gemini人工智能模型和云工具。",
@@ -449,6 +462,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "黑石集团总裁乔恩·格雷：我们正在将人工智能方法融入“我们所做的一切”。",
+          "url": "https://flash.jin10.com/detail/20260203225931960800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "汇丰：AI投资收益更利好股票而非信贷",
           "url": "https://flash.jin10.com/detail/20260203181313892800",
           "source": "金十数据",
@@ -466,9 +490,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
+        },
+        {
+          "title": "新世界发展：上海K11 ATELIER Huaihai办公楼预出租率超50%",
+          "url": "https://wallstreetcn.com/livenews/3049194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "上海“人工智能+”行动再深化，目标新增超50家先进智能工厂",
@@ -488,7 +523,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -537,6 +572,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "AI颠覆风险风起云涌，Anthropic新工具冲击法律软件板块",
+          "url": "https://wallstreetcn.com/livenews/3049201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-03）",
           "url": "https://flash.jin10.com/detail/20260203115849071800",
           "source": "金十数据",
@@ -573,7 +619,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -584,8 +630,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 22时45分]"
+          "appearance_count": 15,
+          "time_info": "[10时24分 ~ 23时53分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
@@ -651,6 +697,17 @@
           "time_info": "[00时43分 ~ 10时24分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -668,7 +725,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -684,15 +741,38 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时53分]"
+        },
+        {
           "title": "MP材料美股盘前涨幅迅速扩大至5%，USAR涨6.7%，UUUU涨4.8%。 欧盟将向美国提议构建关键矿物合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3049172",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
+        },
+        {
+          "title": "美股股指跌幅扩大，纳指跌1%，标普500指数跌0.48%。",
+          "url": "https://flash.jin10.com/detail/20260203230803638800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
@@ -706,24 +786,13 @@
           "time_info": "17时44分"
         },
         {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "美股开盘，道指跌0.1%，标普500指数涨0.13%，纳指涨0.32%。矿业股高开，科尔黛伦矿业(CDE.N)涨8.2%，泛美白银(PAAS.O)涨6.2%，Paypal(PYPL.O)暴跌18%，公司警告称今年盈利可能下降并更换CEO。",
           "url": "https://flash.jin10.com/detail/20260203223024178800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -759,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "全球航空业ETF涨1.59%，在美股盘初领跑行业ETF，半导体ETF涨0.93%，能源业ETF微跌。",
+          "url": "https://wallstreetcn.com/livenews/3049185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "辉瑞第四季度营收175.6亿美元，市场预估169.4亿美元。 第四季度调整后每股收益0.66美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年营收595亿美元至625亿美元。 辉瑞美股盘前跌超1%。",
@@ -797,11 +877,12 @@
           "ranks": [
             11,
             13,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 22时45分]"
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时53分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -815,6 +896,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 07时32分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时53分]"
         },
         {
           "title": "金价银价反弹",
@@ -848,17 +941,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
@@ -925,7 +1007,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
