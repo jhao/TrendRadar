@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-04T17:47:40.207154+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-02-04T18:41:37.484756+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 18时41分]"
+        },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时31分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 17时47分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 17时47分]"
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 18时41分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -140,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 17时47分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 18时41分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -292,11 +292,47 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 18时41分]"
+        },
+        {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时46分 ~ 17时47分]"
+          "time_info": "[16时44分 ~ 18时41分]"
+        },
+        {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时41分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时41分]"
         },
         {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
@@ -333,18 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时51分]"
-        },
-        {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时47分]"
         },
         {
           "title": "AMD的CEO苏姿丰：服务器CPU需求“非常强劲”。 AI业务正在加速。 十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。 超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。 数据中心、游戏和个人电脑领域的需求加速增长。",
@@ -392,17 +416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
-          "url": "https://wallstreetcn.com/articles/3764867",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时47分]"
         },
         {
           "title": "OpenAI拟运用AI助力药企研发并从中获利",
@@ -486,17 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
-        },
-        {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
         },
         {
           "title": "AI自动化浪潮席卷软件行业 亚洲软件股巨头遭遇估值重创",
@@ -807,6 +809,17 @@
           "time_info": "05时51分"
         },
         {
+          "title": "AI时代UP主如何聊动画",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3UP%E4%B8%BB%E5%A6%82%E4%BD%95%E8%81%8A%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
           "url": "https://flash.jin10.com/detail/20260204015701016800",
           "source": "金十数据",
@@ -865,8 +878,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时31分 ~ 17时47分]"
+          "appearance_count": 10,
+          "time_info": "[07时31分 ~ 18时41分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -925,8 +938,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 17时47分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 18时41分]"
         },
         {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
@@ -1028,7 +1041,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -1146,6 +1159,19 @@
           "time_info": "[00时56分 ~ 04时40分]"
         },
         {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时41分]"
+        },
+        {
           "title": "金价暴力反弹重上5000美元",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -1157,18 +1183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时46分 ~ 17时47分]"
-        },
-        {
-          "title": "金价创2009年以来最大单日涨幅",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时47分]"
         },
         {
           "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
@@ -1199,7 +1213,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -1231,8 +1245,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 17时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 18时41分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
