@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:52:11.684161+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-02-06T16:45:07.867117+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "[00时53分 ~ 06时31分]"
         },
         {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 16时45分]"
+        },
+        {
           "title": "UP主们用AI办了场春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -38,11 +50,12 @@
             2,
             23,
             25,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 16时45分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -59,17 +72,6 @@
           "time_info": "[00时53分 ~ 07时26分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 15时52分]"
-        },
-        {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
           "url": "https://www.cls.cn/detail/2282247",
           "source": "财联社热门",
@@ -80,6 +82,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时26分 ~ 15时52分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时12分 ~ 16时45分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -100,17 +113,6 @@
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 15时52分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -623,7 +625,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -633,8 +635,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 15时52分]"
+          "appearance_count": 9,
+          "time_info": "[10时12分 ~ 16时45分]"
+        },
+        {
+          "title": "印度央行否认减持美债 称持仓变动属正常波动",
+          "url": "https://flash.jin10.com/detail/20260206163550587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -695,7 +708,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
