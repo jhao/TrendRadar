@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:53:28.890515+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2026-02-10T21:18:50.949273+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -71,6 +71,20 @@
           "time_info": "[03时14分 ~ 07时39分]"
         },
         {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 21时18分]"
+        },
+        {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
           "url": "https://wallstreetcn.com/articles/3765243",
           "source": "华尔街见闻",
@@ -102,18 +116,16 @@
           "time_info": "[03时14分 ~ 16时59分]"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
+          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
+          "url": "https://www.cls.cn/detail/2286121",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
             4,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 19时53分]"
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时18分]"
         },
         {
           "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
@@ -163,15 +175,19 @@
           "time_info": "18时06分"
         },
         {
-          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
-          "url": "https://www.cls.cn/detail/2286121",
-          "source": "财联社热门",
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
           "ranks": [
-            4
+            8,
+            10,
+            15,
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 21时18分]"
         },
         {
           "title": "拒绝焦虑！从Deepseek到即梦，这一年到底有多少AI工具？丨Hi，今天怎么看？",
@@ -180,7 +196,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -194,21 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            15,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 19时53分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -264,11 +265,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时18分]"
         },
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -281,6 +283,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时35分 ~ 15时07分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时18分]"
         },
         {
           "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
@@ -307,15 +321,15 @@
           "time_info": "[13时06分 ~ 15时07分]"
         },
         {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
+          "title": "美股AI应用软件股盘前涨幅扩大，Spotify、Datadog绩后大涨超10%，Shopify涨近5%，Unity涨超4%，Applovin、Snowflake涨近4%，Palantir涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3053047",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "21时18分"
         },
         {
           "title": "AI 恐怖",
@@ -412,7 +426,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -445,7 +459,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -461,13 +475,24 @@
           "time_info": "18时06分"
         },
         {
+          "title": "“AI新大陆”正在向平民招手",
+          "url": "https://www.toutiao.com/trending/7605168435990892082/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "佰维存储：公司为Meta AI智能眼镜提供ROM+RAM存储器芯片",
           "url": "https://wallstreetcn.com/livenews/3052964",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -530,7 +555,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -541,8 +566,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 19时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 21时18分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -569,6 +594,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时39分 ~ 15时07分]"
+        },
+        {
+          "title": "标普全球美股盘前一度下跌18%。",
+          "url": "https://wallstreetcn.com/livenews/3053058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -666,6 +702,28 @@
           "time_info": "18时06分"
         },
         {
+          "title": "美银警告美股原材料板块出现泡沫化价格波动",
+          "url": "https://flash.jin10.com/detail/20260210204541121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
           "url": "https://flash.jin10.com/detail/20260210065424099800",
           "source": "金十数据",
@@ -683,7 +741,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -708,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -735,8 +804,52 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "谷歌：对有机会解决英国竞争和市场管理局（CMA）的关切表示欢迎。 将继续与CMA进行建设性互动。",
+          "url": "https://wallstreetcn.com/livenews/3053053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将继续与英国竞争和市场管理局（CMA）进行建设性互动。",
+          "url": "https://flash.jin10.com/detail/20260210204920773800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：对有机会解决英国竞争和市场管理局（CMA）的关切表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260210204906860800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
         {
           "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
           "url": "https://www.cls.cn/detail/2285329",
@@ -755,7 +868,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -766,7 +879,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -793,6 +906,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "Anthropic考虑锁定10 GW算力。 该公司正低调地组建一支资深团队，并已讨论在未来数年内确保至少10 GW的发电容量。 包括两名曾经在谷歌公司担任高管的人员。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3052454",
           "source": "华尔街见闻-快讯",
@@ -802,6 +926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     },
@@ -826,11 +961,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 21时18分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
