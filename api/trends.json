@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:15:53.538413+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-02-11T22:56:20.121951+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时56分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -57,6 +57,19 @@
           "time_info": "[13时04分 ~ 19时48分]"
         },
         {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 22时56分]"
+        },
+        {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
@@ -71,21 +84,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 21时15分]"
-        },
-        {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 21时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 22时56分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -97,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 21时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 22时56分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -113,6 +113,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时05分 ~ 13时04分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5,
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 22时56分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -130,18 +145,16 @@
           "time_info": "[00时15分 ~ 10时32分]"
         },
         {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
+          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
+          "url": "https://www.cls.cn/detail/2287511",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            5,
-            6,
-            7
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 21时15分]"
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时56分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -157,6 +170,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时32分 ~ 18时54分]"
+        },
+        {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -176,7 +200,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -204,17 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时32分 ~ 15时04分]"
-        },
-        {
-          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
-          "url": "https://www.cls.cn/detail/2287511",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
@@ -289,6 +302,18 @@
           "time_info": "[05时43分 ~ 06时43分]"
         },
         {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时56分]"
+        },
+        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
@@ -340,7 +365,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -433,26 +458,37 @@
           "time_info": "00时15分"
         },
         {
+          "title": "中美AI“隔空开打”",
+          "url": "https://www.toutiao.com/trending/7605571340929601066/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "四川女生相亲焦虑获AI高能量安慰",
           "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E7%84%A6%E8%99%91%E8%8E%B7AI%E9%AB%98%E8%83%BD%E9%87%8F%E5%AE%89%E6%85%B0",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
         {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
+          "title": "Principal资产管理分析师Seema Shah：在退休、移民动态变化和人工智能驱动的生产力提高等强大的结构性因素抑制就业增长的背景下，非农数据表明劳动力市场依然稳固。",
+          "url": "https://flash.jin10.com/detail/20260211220820282800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "22时56分"
         },
         {
           "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
@@ -464,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "MiniMax最新大模型M2.5上线Agent平台。 （硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3053783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -549,7 +596,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -568,7 +615,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -615,8 +662,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 22时56分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -726,6 +773,17 @@
           "time_info": "[06时43分 ~ 07时41分]"
         },
         {
+          "title": "1月非农大超预期 美股高开",
+          "url": "https://flash.jin10.com/detail/20260211223022292800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
           "url": "https://wallstreetcn.com/livenews/3053236",
           "source": "华尔街见闻-快讯",
@@ -743,7 +801,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -754,7 +812,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -781,15 +839,37 @@
           "time_info": "02时05分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3053787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
           "url": "https://wallstreetcn.com/livenews/3053732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
+        },
+        {
+          "title": "美国非农数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3053777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
@@ -877,6 +957,80 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "道明证券：大多数外国投资者并未承认自己在卖出美债",
+          "url": "https://wallstreetcn.com/livenews/3053272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时41分]"
+        },
+        {
+          "title": "道明证券称外资对美债需求稳健，“抛售美国”更多是叙事而非现实",
+          "url": "https://wallstreetcn.com/livenews/3053271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时41分]"
+        },
+        {
+          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "机构：美债替代品寥寥 外资持债意向坚挺",
+          "url": "https://flash.jin10.com/detail/20260211041750931800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "BMO：非农数据推高美债收益率 为即将到来的额美债拍卖带来难题",
+          "url": "https://flash.jin10.com/detail/20260211221035489800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "30年期美债收益率跌超7.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3053229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -888,11 +1042,12 @@
             12,
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 21时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 22时56分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -999,58 +1154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "道明证券：大多数外国投资者并未承认自己在卖出美债",
-          "url": "https://wallstreetcn.com/livenews/3053272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时41分]"
-        },
-        {
-          "title": "道明证券称外资对美债需求稳健，“抛售美国”更多是叙事而非现实",
-          "url": "https://wallstreetcn.com/livenews/3053271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时41分]"
-        },
-        {
-          "title": "机构：美债替代品寥寥 外资持债意向坚挺",
-          "url": "https://flash.jin10.com/detail/20260211041750931800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "30年期美债收益率跌超7.4个基点",
-          "url": "https://wallstreetcn.com/livenews/3053229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         }
       ]
     }
