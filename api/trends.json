@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T20:53:51.088630+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-02-14T21:47:23.240604+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时49分 ~ 20时53分]"
+          "appearance_count": 10,
+          "time_info": "[14时49分 ~ 21时47分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -59,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时43分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时43分 ~ 21时47分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -87,11 +88,23 @@
             15,
             16,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 20时53分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 21时47分]"
+        },
+        {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 21时47分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -104,11 +117,12 @@
             18,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 20时53分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 21时47分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -141,8 +155,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时43分 ~ 20时53分]"
+          "appearance_count": 19,
+          "time_info": "[03时43分 ~ 21时47分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -155,17 +169,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时33分]"
-        },
-        {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时53分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -204,8 +207,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 21时47分]"
+        },
+        {
+          "title": "马上评｜AI时代，让我们更懂年味",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32604363",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 21时47分]"
         },
         {
           "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
@@ -223,17 +240,6 @@
           "time_info": "[13时47分 ~ 17时34分]"
         },
         {
-          "title": "印度AI峰会“五天赛程”安排",
-          "url": "https://wallstreetcn.com/livenews/3055544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "英伟达首席执行官黄仁勋下周将不出席印度人工智能峰会。",
           "url": "https://wallstreetcn.com/livenews/3055529",
           "source": "华尔街见闻-快讯",
@@ -245,28 +251,18 @@
           "time_info": "19时25分"
         },
         {
-          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
-          "url": "https://wallstreetcn.com/livenews/3055541",
-          "source": "华尔街见闻-快讯",
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "马上评｜AI时代，让我们更懂年味",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32604363",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
+            10,
             9,
-            8
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时53分]"
+          "time_info": "[17时34分 ~ 21时47分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -282,6 +278,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 04时41分]"
+        },
+        {
+          "title": "印度AI峰会“五天赛程”安排",
+          "url": "https://wallstreetcn.com/livenews/3055544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时47分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
@@ -374,19 +382,6 @@
           "time_info": "[19时25分 ~ 20时53分]"
         },
         {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时53分]"
-        },
-        {
           "title": "欧洲银行股年内涨幅悉数回吐 分析师：银行股已成为人工智能最新受害者",
           "url": "https://flash.jin10.com/detail/20260214003126330800",
           "source": "金十数据",
@@ -397,6 +392,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时41分]"
+        },
+        {
+          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
+          "url": "https://wallstreetcn.com/livenews/3055541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时47分]"
         },
         {
           "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
@@ -412,6 +419,19 @@
           "time_info": "[05时38分 ~ 07时33分]"
         },
         {
+          "title": "上汽集团子公司拟10亿元参设产业基金，加码固态电池、具身智能等",
+          "url": "https://wallstreetcn.com/livenews/3055523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时47分]"
+        },
+        {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
           "url": "https://wallstreetcn.com/livenews/3055325",
           "source": "华尔街见闻-快讯",
@@ -423,6 +443,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时41分]"
+        },
+        {
+          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
+          "url": "https://www.zhihu.com/question/2003986885089981631",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时47分]"
         },
         {
           "title": "如何评价 Kaiming He 新作《Generative Modeling via Drifting》？",
@@ -437,6 +469,18 @@
           "time_info": "[15时35分 ~ 16时36分]"
         },
         {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时47分]"
+        },
+        {
           "title": "FF：已推出首批具身智能机器人产品系列 首批交付预计在本月底",
           "url": "https://flash.jin10.com/detail/20260214115005522800",
           "source": "金十数据",
@@ -449,16 +493,27 @@
           "time_info": "[12时43分 ~ 13时47分]"
         },
         {
-          "title": "上汽集团子公司拟10亿元参设产业基金，加码固态电池、具身智能等",
-          "url": "https://wallstreetcn.com/livenews/3055523",
-          "source": "华尔街见闻-快讯",
+          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时53分]"
+          "time_info": "[20时53分 ~ 21时47分]"
+        },
+        {
+          "title": "AI智能体首次主动攻击人类维护者",
+          "url": "https://www.toutiao.com/trending/7606527061628292649/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 21时47分]"
         },
         {
           "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
@@ -473,15 +528,16 @@
           "time_info": "[12时43分 ~ 13时47分]"
         },
         {
-          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
-          "url": "https://www.zhihu.com/question/2003986885089981631",
-          "source": "知乎",
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时53分]"
+          "time_info": "[20时53分 ~ 21时47分]"
         },
         {
           "title": "吴克群AI春晚reaction",
@@ -508,26 +564,26 @@
           "time_info": "[12时43分 ~ 13时47分]"
         },
         {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
-          "url": "https://wallstreetcn.com/articles/3765728",
+          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
+          "url": "https://wallstreetcn.com/articles/3765732",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "21时47分"
+        },
+        {
+          "title": "本周，“AI颠覆一切”的狼终于来了",
+          "url": "https://wallstreetcn.com/articles/3765735",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -539,28 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "AI智能体首次主动攻击人类维护者",
-          "url": "https://www.toutiao.com/trending/7606527061628292649/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
-          "url": "https://wallstreetcn.com/livenews/3055529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
@@ -635,7 +669,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -752,8 +786,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 21时47分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -862,7 +896,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -876,8 +910,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时43分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时43分 ~ 21时47分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -889,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -1001,8 +1046,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时10分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[10时10分 ~ 21时47分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -1086,11 +1131,12 @@
           "url": "https://www.toutiao.com/trending/7606664927398333971/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时47分]"
         }
       ]
     },
@@ -1109,8 +1155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时47分 ~ 20时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时47分 ~ 21时47分]"
         }
       ]
     },
