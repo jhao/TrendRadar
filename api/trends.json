@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:49:26.521194+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-02-17T23:55:48.547692+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时47分 ~ 22时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时47分 ~ 23时55分]"
         },
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时47分 ~ 22时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时47分 ~ 23时55分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -90,11 +90,23 @@
             7,
             4,
             3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时54分 ~ 23时55分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时54分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 23时55分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -119,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时47分 ~ 22时49分]"
+          "appearance_count": 24,
+          "time_info": "[00时47分 ~ 23时55分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -147,17 +159,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时47分 ~ 07时32分]"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 22时49分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -414,6 +415,30 @@
           "time_info": "[14时00分 ~ 15时12分]"
         },
         {
+          "title": "腾讯发布元宝10亿红包活动报告：全网抽奖36亿次，完成AI创作10亿次",
+          "url": "https://wallstreetcn.com/livenews/3056016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
           "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
           "url": "https://www.cls.cn/detail/2290780",
           "source": "财联社热门",
@@ -482,6 +507,18 @@
           "time_info": "[00时48分 ~ 01时40分]"
         },
         {
+          "title": "风投公司Thrive Capital募资逾100亿美元 加码AI等前沿领域",
+          "url": "https://wallstreetcn.com/livenews/3056010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
           "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
           "url": "https://flash.jin10.com/detail/20260217052828769800",
           "source": "金十数据",
@@ -492,17 +529,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "腾讯发布元宝10亿红包活动报告：全网抽奖36亿次，完成AI创作10亿次",
-          "url": "https://wallstreetcn.com/livenews/3056016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
@@ -571,17 +597,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "法国总统马克龙：我们需要更好地监管人工智能和社交网络。我们需要更透明的算法，还需要保护我们的年轻人。",
           "url": "https://flash.jin10.com/detail/20260217202702283800",
           "source": "金十数据",
@@ -602,17 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
-        },
-        {
-          "title": "风投公司Thrive Capital募资逾100亿美元 加码AI等前沿领域",
-          "url": "https://wallstreetcn.com/livenews/3056010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
@@ -758,6 +762,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "业内：AI仍是投资主线",
+          "url": "https://www.toutiao.com/trending/7607839279741406766/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
           "url": "https://flash.jin10.com/detail/20260217160309287800",
           "source": "金十数据",
@@ -767,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "市场消息：巴克莱银行预测，到2035年，物理人工智能（机器人、自动驾驶汽车、工业自动化和无人机）市场规模可能达到0.5万亿美元至1.4万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217225704382800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "印度方面表示，英伟达(NVDA.O)正在与一些人工智能基础设施/软件公司合作。",
@@ -786,7 +812,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         }
@@ -794,7 +820,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -807,30 +833,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时14分 ~ 22时49分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3056022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
-          "url": "https://wallstreetcn.com/livenews/3056021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "appearance_count": 13,
+          "time_info": "[10时14分 ~ 23时55分]"
         },
         {
           "title": "奈飞股价美股盘前一度上涨1.6%。",
@@ -842,6 +846,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
+          "url": "https://wallstreetcn.com/livenews/3056021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -867,13 +895,24 @@
           "time_info": "17时53分"
         },
         {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3056004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -928,7 +967,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         }
@@ -984,8 +1023,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时49分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[18时49分 ~ 23时55分]"
         },
         {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
