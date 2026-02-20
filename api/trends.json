@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T15:54:16.614891+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-02-20T16:43:48.844513+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -51,11 +51,12 @@
           "ranks": [
             9,
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 16时43分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -64,11 +65,12 @@
           "ranks": [
             12,
             13,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 16时43分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -102,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时00分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时00分 ~ 16时43分]"
         },
         {
           "title": "美国两大人工智能巨头CEO拒绝牵手",
@@ -131,6 +133,19 @@
           "time_info": "07时33分"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时43分]"
+        },
+        {
           "title": "港股午评：恒指收跌0.61% AI应用、机器人概念股逆势走强",
           "url": "https://flash.jin10.com/detail/20260220121721108800",
           "source": "金十数据",
@@ -140,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
-        },
-        {
-          "title": "希腊启动“灯塔”项目推动人工智能发展",
-          "url": "https://wallstreetcn.com/livenews/3056886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -165,18 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时53分 ~ 04时36分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时54分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -216,6 +208,18 @@
           "time_info": "[07时33分 ~ 10时13分]"
         },
         {
+          "title": "希腊启动“灯塔”项目推动人工智能发展",
+          "url": "https://wallstreetcn.com/livenews/3056886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时43分]"
+        },
+        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
@@ -240,6 +244,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时34分 ~ 10时13分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时00分 ~ 16时43分]"
         },
         {
           "title": "英国政府：人工智能安全研究所的对齐项目得到包括亚马逊云服务、Anthropic等在内的国际联盟支持。",
@@ -307,16 +323,16 @@
           "time_info": "[10时13分 ~ 13时55分]"
         },
         {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
+          "title": "希腊启动“灯塔”项目推动人工智能发展",
+          "url": "https://flash.jin10.com/detail/20260220151207607800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时00分 ~ 15时54分]"
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时43分]"
         },
         {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
@@ -354,6 +370,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
+          "url": "https://wallstreetcn.com/livenews/3056892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
           "url": "https://flash.jin10.com/detail/20260220043316320800",
           "source": "金十数据",
@@ -365,15 +392,15 @@
           "time_info": "05时36分"
         },
         {
-          "title": "希腊启动“灯塔”项目推动人工智能发展",
-          "url": "https://flash.jin10.com/detail/20260220151207607800",
+          "title": "港股马年首个交易日收盘，恒指收跌1.10%，科指收跌2.91%。人工智能及机器人概念股全天走强，智谱(02513.HK)日内大涨42.72%，股价最高报725港元，总市值突破3200亿港元，MINIMAX-WP(00100.HK)收涨14.52%。",
+          "url": "https://flash.jin10.com/detail/20260220161008259800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "16时43分"
         },
         {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
@@ -456,8 +483,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时34分 ~ 15时54分]"
+          "appearance_count": 10,
+          "time_info": "[06时34分 ~ 16时43分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -492,8 +519,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 16时43分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -504,8 +531,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 16时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -515,8 +542,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 15时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 16时43分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -529,8 +556,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[10时13分 ~ 16时43分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -601,6 +628,17 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时43分]"
+        },
+        {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3056799",
           "source": "华尔街见闻-快讯",
@@ -611,17 +649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时33分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         }
       ]
     },
@@ -638,8 +665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时43分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
