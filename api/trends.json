@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:27:44.918984+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-02-22T07:27:59.655451+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -79,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -91,19 +91,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         }
       ]
     },
@@ -120,11 +121,12 @@
             10,
             11,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         }
       ]
     },
@@ -141,8 +143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时27分]"
         }
       ]
     }
