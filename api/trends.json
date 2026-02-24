@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T04:55:42.855005+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-02-25T05:39:19.664355+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 具身智能",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
         },
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
         },
         {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
@@ -72,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -85,19 +85,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
-        },
-        {
-          "title": "美联储巴尔金：生产率提升并非仅源于人工智能。",
-          "url": "https://flash.jin10.com/detail/20260225044639286800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -106,11 +95,24 @@
           "ranks": [
             17,
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 05时39分]"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -135,17 +137,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "美联储巴尔金：担忧人工智能投资回落将对经济造成的影响。",
-          "url": "https://flash.jin10.com/detail/20260225044558231800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
           "source": "华尔街见闻",
@@ -155,19 +146,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 05时39分]"
         },
         {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
+          "title": "美联储巴尔金：生产率提升并非仅源于人工智能。",
+          "url": "https://flash.jin10.com/detail/20260225044639286800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 04时55分]"
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时39分]"
+        },
+        {
+          "title": "美联储巴尔金：担忧人工智能投资回落将对经济造成的影响。",
+          "url": "https://flash.jin10.com/detail/20260225044558231800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时39分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -180,6 +184,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 01时27分]"
+        },
+        {
+          "title": "西安一市民除夕夜被AI给骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时39分]"
         },
         {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
@@ -204,6 +220,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美联储巴尔金：不认为人工智能会导致经济出现剧烈变化。",
+          "url": "https://flash.jin10.com/detail/20260225045511582800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3058291",
           "source": "华尔街见闻-快讯",
@@ -213,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美联储柯林斯：到目前为止，人工智能一直在增强而非取代劳动力。",
+          "url": "https://flash.jin10.com/detail/20260225045310493800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "MSCI向客户提供AI接口，支持调用专属数据",
@@ -226,6 +264,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美联储柯林斯：对人工智能的经济影响持谨慎乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260225045214349800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "美联储理事库克：AI已经被纳入美联储的预测。",
           "url": "https://wallstreetcn.com/livenews/3058228",
           "source": "华尔街见闻-快讯",
@@ -235,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美联储巴尔金：人工智能将成为提高生产率的又一驱动因素。",
+          "url": "https://flash.jin10.com/detail/20260225044854977800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
@@ -268,17 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "西安一市民除夕夜被AI给骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
         },
         {
           "title": "普华永道美国将部署Anthropic企业级人工智能插件",
@@ -320,7 +369,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -339,19 +388,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
-          "url": "https://wallstreetcn.com/livenews/3058334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
           "url": "https://www.cls.cn/detail/2293967",
@@ -361,8 +399,42 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时39分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050547207800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050527378800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
+          "url": "https://wallstreetcn.com/livenews/3058334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时39分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -389,6 +461,17 @@
           "time_info": "[00时26分 ~ 01时27分]"
         },
         {
+          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
+          "url": "https://flash.jin10.com/detail/20260225050111394800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "德债收益率在美股盘初短暂地拉升",
           "url": "https://wallstreetcn.com/livenews/3058277",
           "source": "华尔街见闻-快讯",
@@ -410,11 +493,12 @@
           "url": "https://wallstreetcn.com/livenews/3058322",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时39分]"
         },
         {
           "title": "美元指数24日上涨",
@@ -423,7 +507,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
@@ -455,11 +539,12 @@
           "url": "https://wallstreetcn.com/livenews/3058330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时39分]"
         }
       ]
     }
